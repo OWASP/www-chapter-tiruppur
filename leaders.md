@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Pooventhan Ramesh](mailto:pooventhan.ramesh@owasp.org)
+* [Jeyan R](mailto:jeyan.r@owasp.org)
